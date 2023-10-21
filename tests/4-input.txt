@@ -1,0 +1,75 @@
+2 64 10
+1 Avenue 94 110 29 1
+2 Avenue 36 74 28 4
+1 Road 119 54 47 1
+3 Avenue 78 126 16 2
+2 Road 34 76 45 2
+3 Road 31 142 19 1
+4 Road 46 137 14 1
+5 Road 117 121 35 1
+6 Road 69 122 16 1
+4 Avenue 139 87 19 1
+7 Road 44 108 15 1
+5 Avenue 105 86 15 3
+6 Avenue 118 45 25 1
+8 Road 129 75 47 1
+9 Road 82 146 5 4
+7 Avenue 36 80 89 1
+8 Avenue 108 36 23 1
+10 Road 140 54 22 2
+9 Avenue 45 119 44 2
+10 Avenue 82 41 12 4
+11 Road 56 40 30 3
+12 Road 91 93 2 24
+13 Road 134 61 40 1
+14 Road 122 107 20 1
+11 Avenue 111 112 32 1
+12 Avenue 138 43 4 8
+15 Road 30 99 13 3
+16 Road 141 52 11 4
+17 Road 108 58 82 1
+13 Avenue 116 114 53 1
+18 Road 97 60 18 2
+14 Avenue 47 37 12 1
+19 Road 304 121 38 1
+20 Road 300 36 44 2
+21 Road 259 133 15 2
+22 Road 281 125 15 2
+23 Road 280 145 8 2
+24 Road 230 79 4 6
+25 Road 325 61 78 1
+26 Road 244 93 3 9
+15 Avenue 295 125 23 2
+27 Road 320 40 58 1
+16 Avenue 261 37 21 2
+28 Road 347 139 19 1
+17 Avenue 325 85 13 1
+29 Road 290 32 108 1
+18 Avenue 272 31 41 1
+30 Road 312 84 4 11
+31 Road 333 78 22 2
+19 Avenue 303 101 7 4
+20 Avenue 315 36 2 16
+32 Road 235 78 31 1
+21 Avenue 321 50 16 1
+33 Road 281 97 2 14
+22 Avenue 264 72 99 1
+34 Road 296 102 33 1
+35 Road 251 38 69 1
+23 Avenue 336 69 5 5
+24 Avenue 264 91 37 1
+36 Road 270 68 22 2
+37 Road 245 125 21 1
+25 Avenue 321 48 14 2
+26 Avenue 230 100 56 1
+27 Avenue 307 112 4 12
+12 Avenue, 3
+1 Avenue, 3
+12 Avenue, 2
+14 Road, 15
+17 Road, 39
+23 Avenue, 3
+27 Avenue, 0
+31 Road, 18
+24 Road, 2
+27 Road, 54

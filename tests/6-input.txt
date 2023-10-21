@@ -1,0 +1,123 @@
+30 60 62
+1 Road 49 36 19 1
+1 Avenue 26 39 34 1
+2 Avenue 136 38 15 1
+4 Avenue 149 30 11 1
+5 Avenue 239 39 20 1
+6 Avenue 233 47 30 1
+2 Road 336 28 16 2
+7 Avenue 341 47 13 1
+8 Avenue 454 31 16 1
+3 Road 451 27 8 5
+9 Avenue 528 51 22 1
+4 Road 537 44 29 1
+5 Road 41 129 22 1
+6 Road 36 145 23 1
+10 Avenue 132 150 21 2
+7 Road 132 149 2 12
+11 Avenue 231 148 10 3
+8 Road 239 137 3 8
+9 Road 330 125 8 2
+10 Road 340 153 3 7
+12 Avenue 439 139 20 1
+13 Avenue 452 150 20 1
+14 Avenue 531 138 32 1
+15 Avenue 540 150 18 1
+11 Road 36 248 17 1
+12 Road 28 252 2 10
+13 Road 145 241 17 1
+14 Road 140 233 13 1
+16 Avenue 238 231 15 1
+15 Road 245 246 24 1
+16 Road 332 231 29 1
+17 Road 337 227 6 5
+18 Road 444 226 19 2
+19 Road 429 225 20 1
+20 Road 532 227 24 1
+17 Avenue 550 236 11 2
+18 Avenue 33 326 34 1
+19 Avenue 45 333 20 1
+21 Road 147 352 14 1
+22 Road 140 330 34 1
+20 Avenue 243 348 3 7
+23 Road 240 345 4 5
+24 Road 327 335 22 1
+25 Road 350 344 5 6
+21 Avenue 439 348 21 1
+22 Avenue 436 330 12 2
+26 Road 549 325 15 1
+27 Road 548 337 14 1
+23 Avenue 39 438 14 1
+24 Avenue 38 454 5 5
+25 Avenue 137 425 19 1
+28 Road 132 431 16 2
+26 Avenue 245 452 11 2
+29 Road 253 452 8 2
+30 Road 336 440 4 8
+27 Avenue 336 432 12 2
+31 Road 426 440 7 3
+32 Road 451 452 6 3
+28 Avenue 540 427 9 3
+33 Road 530 449 17 1
+1 Road, 4
+1 Avenue, 12
+4 Avenue, 0
+4 Avenue, 10
+5 Avenue, 12
+5 Avenue, 12
+2 Road, 12
+2 Road, 15
+8 Avenue, 15
+8 Avenue, 5
+9 Avenue, 14
+9 Avenue, 1
+6 Road, 6
+5 Road, 11
+10 Avenue, 9
+10 Avenue, 2
+11 Avenue, 7
+11 Avenue, 7
+9 Road, 5
+9 Road, 1
+13 Avenue, 11
+12 Avenue, 1
+14 Avenue, 28
+14 Avenue, 2
+12 Road, 0
+12 Road, 0
+13 Road, 12
+14 Road, 6
+15 Road, 6
+15 Road, 1
+16 Road, 15
+17 Road, 4
+19 Road, 15
+18 Road, 17
+20 Road, 11
+17 Avenue, 6
+19 Avenue, 5
+18 Avenue, 29
+22 Road, 13
+21 Road, 0
+20 Avenue, 1
+20 Avenue, 0
+24 Road, 6
+25 Road, 4
+21 Avenue, 4
+21 Avenue, 0
+26 Road, 13
+26 Road, 12
+24 Avenue, 0
+23 Avenue, 2
+25 Avenue, 6
+28 Road, 6
+26 Avenue, 8
+29 Road, 4
+27 Avenue, 7
+27 Avenue, 9
+32 Road, 5
+31 Road, 5
+33 Road, 16
+28 Avenue, 0
+17 Avenue, 9
+27 Avenue, 8

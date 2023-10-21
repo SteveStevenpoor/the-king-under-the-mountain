@@ -1,0 +1,9 @@
+2 5 3
+Nikolaeva Avenue 0 16 6 4
+Engineering Road 12 4 5 12
+Kutateladze Road 16 12 3 4
+Builders Avenue 14 20 3 2
+Lavrentiva Avenue 12 42 3 7
+Nikolaeva Avenue, 1
+Nikolaeva Avenue, 2
+Lavrentiva Avenue, 1

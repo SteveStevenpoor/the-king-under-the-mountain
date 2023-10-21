@@ -1,0 +1,1157 @@
+8 256 900
+1 Road 122 126 32 1
+2 Road 100 37 17 2
+1 Avenue 119 33 15 2
+2 Avenue 131 73 16 2
+3 Road 66 134 3 10
+3 Avenue 47 65 45 1
+4 Road 104 51 98 1
+4 Avenue 59 144 46 1
+5 Road 52 42 13 8
+5 Avenue 118 100 15 2
+6 Avenue 35 132 5 4
+6 Road 60 77 81 1
+7 Avenue 59 142 51 1
+7 Road 75 120 6 3
+8 Avenue 111 108 23 2
+8 Road 106 33 31 1
+9 Avenue 148 44 13 1
+9 Road 46 124 35 1
+10 Avenue 101 109 26 1
+10 Road 90 88 19 1
+11 Avenue 61 67 16 1
+11 Road 55 38 71 1
+12 Road 141 132 23 1
+12 Avenue 44 139 21 3
+13 Road 69 72 52 1
+13 Avenue 101 119 50 1
+14 Avenue 51 41 54 1
+15 Avenue 125 74 13 2
+16 Avenue 61 109 2 32
+17 Avenue 138 145 8 3
+18 Avenue 147 116 6 3
+14 Road 34 53 10 7
+19 Avenue 341 74 13 1
+15 Road 327 39 12 1
+16 Road 231 52 14 2
+20 Avenue 256 60 91 1
+17 Road 293 148 6 3
+21 Avenue 294 138 56 1
+18 Road 308 50 9 3
+19 Road 281 103 22 2
+22 Avenue 301 105 20 1
+23 Avenue 299 127 70 1
+20 Road 328 54 20 1
+21 Road 345 104 33 1
+22 Road 290 50 21 3
+24 Avenue 349 90 7 2
+23 Road 269 57 34 2
+24 Road 314 108 13 3
+25 Road 263 97 42 1
+25 Avenue 273 69 18 5
+26 Road 306 123 8 5
+26 Avenue 319 39 16 1
+27 Avenue 282 84 20 2
+27 Road 316 125 17 2
+28 Avenue 323 37 30 1
+28 Road 257 70 12 5
+29 Avenue 319 110 11 3
+30 Avenue 258 114 34 2
+31 Avenue 299 37 22 1
+29 Road 317 51 61 1
+30 Road 302 132 6 3
+31 Road 265 58 19 1
+32 Road 239 124 4 5
+32 Avenue 304 46 12 4
+33 Avenue 448 101 54 1
+34 Avenue 500 126 47 1
+35 Avenue 530 73 8 2
+33 Road 430 127 32 1
+36 Avenue 472 100 14 2
+34 Road 527 109 56 1
+37 Avenue 479 64 20 1
+35 Road 470 46 9 3
+38 Avenue 444 33 36 1
+39 Avenue 452 121 18 1
+36 Road 531 114 17 2
+37 Road 516 73 5 6
+40 Avenue 495 75 37 1
+38 Road 475 51 11 5
+39 Road 477 96 35 1
+40 Road 459 70 32 1
+41 Road 450 62 10 10
+41 Avenue 537 149 12 1
+43 Avenue 501 58 17 3
+42 Road 465 30 21 3
+44 Avenue 463 87 32 1
+45 Avenue 443 104 38 2
+43 Road 541 64 15 1
+46 Avenue 462 128 52 1
+44 Road 508 57 100 1
+47 Avenue 453 68 11 4
+45 Road 483 61 54 1
+48 Avenue 449 34 65 1
+49 Avenue 499 85 10 2
+46 Road 480 121 23 1
+50 Avenue 528 119 9 2
+47 Road 435 146 16 1
+48 Road 84 306 46 1
+51 Avenue 98 279 16 1
+49 Road 91 337 20 1
+52 Avenue 70 293 29 2
+50 Road 146 342 19 1
+51 Road 95 327 31 1
+53 Avenue 67 335 44 1
+54 Avenue 116 319 4 7
+52 Road 60 234 113 1
+55 Avenue 40 269 20 3
+53 Road 98 231 12 11
+54 Road 121 330 6 5
+55 Road 42 238 35 3
+56 Avenue 88 260 7 2
+58 Avenue 79 347 17 3
+59 Avenue 121 241 8 3
+60 Avenue 130 310 3 8
+61 Avenue 141 329 21 1
+57 Road 80 327 16 2
+58 Road 119 254 83 1
+62 Avenue 73 287 7 5
+64 Avenue 34 289 39 3
+65 Avenue 128 338 10 2
+66 Avenue 113 274 37 1
+59 Road 91 304 33 1
+60 Road 78 340 20 1
+67 Avenue 62 301 62 1
+68 Avenue 65 271 15 2
+69 Avenue 50 272 28 3
+70 Avenue 138 304 27 1
+71 Avenue 142 251 5 4
+61 Road 141 310 29 1
+72 Avenue 275 263 85 1
+73 Avenue 246 275 52 1
+62 Road 307 332 15 2
+74 Avenue 311 255 31 1
+63 Road 338 328 32 1
+75 Avenue 307 289 14 2
+76 Avenue 242 279 47 1
+77 Avenue 341 305 3 9
+64 Road 267 251 28 4
+78 Avenue 243 330 10 2
+79 Avenue 291 274 50 1
+80 Avenue 324 328 17 2
+65 Road 285 242 20 2
+66 Road 231 290 45 1
+81 Avenue 241 337 4 6
+82 Avenue 306 260 8 8
+67 Road 326 307 11 2
+83 Avenue 338 249 19 1
+68 Road 272 329 5 8
+69 Road 347 317 17 1
+70 Road 250 230 19 5
+84 Avenue 340 344 2 10
+71 Road 234 303 43 1
+72 Road 265 297 12 1
+85 Avenue 331 342 15 2
+86 Avenue 277 345 15 1
+87 Avenue 306 272 2 28
+89 Avenue 308 309 4 10
+90 Avenue 307 239 13 4
+73 Road 258 295 23 1
+74 Road 254 320 14 1
+75 Road 293 313 39 1
+76 Road 549 333 14 1
+77 Road 533 298 18 3
+78 Road 470 341 19 1
+79 Road 519 319 15 1
+80 Road 526 335 5 4
+81 Road 461 304 49 1
+82 Road 434 251 16 2
+91 Avenue 440 345 67 1
+92 Avenue 513 347 33 1
+93 Avenue 534 304 4 5
+83 Road 528 298 8 4
+84 Road 476 265 87 1
+94 Avenue 481 259 54 1
+95 Avenue 541 284 22 1
+85 Road 548 324 38 1
+96 Avenue 479 299 16 3
+97 Avenue 540 295 15 1
+86 Road 471 299 45 1
+87 Road 536 240 20 4
+88 Road 482 270 21 1
+98 Avenue 432 299 15 1
+99 Avenue 483 309 2 26
+89 Road 447 316 20 1
+100 Avenue 455 311 33 2
+101 Avenue 487 297 52 1
+102 Avenue 441 242 93 1
+90 Road 546 326 32 1
+91 Road 486 300 4 11
+103 Avenue 544 282 9 2
+104 Avenue 519 306 3 10
+105 Avenue 496 291 55 1
+106 Avenue 530 270 11 2
+107 Avenue 73 534 17 1
+92 Road 144 516 19 2
+108 Avenue 37 505 89 1
+109 Avenue 124 468 15 3
+110 Avenue 142 477 10 2
+93 Road 50 461 54 1
+111 Avenue 121 516 26 1
+94 Road 64 475 35 2
+112 Avenue 57 530 63 1
+95 Road 117 444 6 7
+96 Road 82 522 3 8
+97 Road 32 518 29 1
+98 Road 102 436 55 1
+113 Avenue 131 512 12 1
+99 Road 74 486 25 2
+100 Road 120 508 3 7
+114 Avenue 97 481 6 8
+101 Road 81 503 15 3
+102 Road 42 437 49 1
+116 Avenue 111 509 29 1
+117 Avenue 90 507 12 3
+118 Avenue 104 515 2 18
+103 Road 45 477 58 1
+120 Avenue 118 490 13 1
+104 Road 110 432 60 1
+105 Road 147 497 23 1
+106 Road 100 476 31 2
+121 Avenue 124 449 8 5
+107 Road 53 454 52 1
+108 Road 55 525 7 5
+109 Road 148 465 54 1
+110 Road 96 451 24 1
+111 Road 253 533 3 9
+112 Road 274 459 44 1
+113 Road 349 531 25 1
+114 Road 271 457 54 1
+122 Avenue 272 437 44 1
+123 Avenue 322 515 20 1
+124 Avenue 309 461 5 4
+115 Road 230 487 11 2
+125 Avenue 316 485 12 2
+116 Road 297 531 30 1
+126 Avenue 251 475 16 2
+127 Avenue 260 466 77 1
+128 Avenue 261 534 29 2
+129 Avenue 233 517 40 1
+130 Avenue 341 506 20 1
+117 Road 266 431 48 2
+131 Avenue 313 472 14 2
+118 Road 269 549 9 2
+132 Avenue 283 494 18 1
+119 Road 288 492 48 1
+120 Road 347 516 38 1
+133 Avenue 322 544 23 1
+121 Road 317 524 35 1
+134 Avenue 300 549 21 3
+135 Avenue 296 516 48 1
+122 Road 348 486 47 1
+123 Road 328 435 50 1
+124 Road 316 504 24 1
+125 Road 329 446 47 2
+126 Road 341 455 25 1
+127 Road 298 524 18 2
+137 Avenue 260 448 6 5
+10 Road, 10
+6 Avenue, 0
+14 Road, 2
+8 Avenue, 13
+11 Avenue, 14
+9 Avenue, 6
+10 Road, 17
+4 Avenue, 29
+1 Road, 15
+5 Avenue, 14
+8 Road, 24
+8 Road, 24
+7 Avenue, 34
+6 Road, 13
+13 Road, 27
+4 Road, 75
+10 Avenue, 19
+11 Road, 67
+5 Avenue, 2
+10 Road, 11
+7 Road, 5
+2 Avenue, 15
+14 Avenue, 17
+13 Avenue, 41
+11 Avenue, 3
+16 Avenue, 1
+11 Road, 29
+5 Avenue, 0
+11 Road, 66
+1 Avenue, 9
+17 Avenue, 4
+5 Avenue, 3
+2 Road, 11
+9 Road, 27
+3 Road, 2
+14 Avenue, 35
+12 Avenue, 17
+17 Avenue, 6
+12 Road, 8
+11 Avenue, 4
+6 Avenue, 4
+6 Road, 10
+7 Road, 5
+5 Avenue, 9
+3 Avenue, 28
+3 Avenue, 44
+8 Road, 14
+2 Avenue, 0
+3 Road, 2
+8 Avenue, 10
+14 Avenue, 45
+13 Avenue, 35
+7 Road, 4
+9 Road, 29
+9 Avenue, 6
+1 Road, 31
+6 Avenue, 2
+6 Road, 53
+10 Road, 7
+3 Road, 1
+3 Avenue, 20
+4 Road, 91
+15 Avenue, 8
+13 Avenue, 32
+8 Avenue, 5
+3 Road, 2
+15 Avenue, 4
+4 Avenue, 42
+5 Avenue, 9
+13 Road, 40
+11 Road, 26
+6 Avenue, 1
+2 Avenue, 0
+18 Avenue, 2
+9 Avenue, 3
+4 Road, 43
+5 Avenue, 9
+13 Avenue, 38
+17 Avenue, 1
+8 Avenue, 1
+12 Road, 19
+2 Avenue, 12
+17 Avenue, 3
+17 Avenue, 7
+10 Avenue, 23
+18 Avenue, 5
+6 Road, 33
+1 Road, 18
+13 Avenue, 19
+12 Avenue, 16
+13 Avenue, 25
+16 Avenue, 0
+13 Avenue, 33
+10 Avenue, 7
+18 Avenue, 0
+15 Avenue, 9
+10 Road, 14
+1 Avenue, 1
+7 Avenue, 29
+6 Avenue, 0
+21 Road, 18
+20 Road, 4
+25 Avenue, 4
+31 Avenue, 18
+21 Avenue, 22
+28 Road, 4
+19 Avenue, 6
+21 Road, 6
+23 Avenue, 7
+23 Avenue, 37
+23 Avenue, 7
+29 Road, 3
+28 Avenue, 5
+30 Avenue, 5
+30 Road, 3
+29 Avenue, 8
+21 Road, 11
+29 Avenue, 2
+30 Avenue, 26
+19 Avenue, 11
+28 Avenue, 26
+25 Road, 23
+26 Avenue, 0
+30 Avenue, 3
+31 Avenue, 5
+20 Avenue, 80
+21 Road, 32
+32 Road, 2
+16 Road, 12
+20 Avenue, 88
+15 Road, 4
+31 Road, 2
+29 Avenue, 0
+28 Road, 11
+25 Road, 34
+17 Road, 0
+32 Avenue, 9
+28 Road, 6
+29 Avenue, 10
+21 Road, 18
+22 Avenue, 12
+17 Road, 4
+28 Road, 3
+22 Avenue, 10
+18 Road, 5
+20 Avenue, 73
+24 Road, 1
+20 Avenue, 46
+19 Avenue, 0
+23 Road, 1
+29 Avenue, 2
+25 Road, 26
+16 Road, 12
+20 Road, 18
+30 Road, 2
+28 Road, 9
+30 Road, 0
+18 Road, 5
+30 Road, 3
+31 Avenue, 1
+27 Avenue, 12
+29 Road, 57
+19 Avenue, 9
+26 Road, 6
+23 Road, 13
+29 Avenue, 2
+17 Road, 4
+15 Road, 4
+22 Avenue, 2
+30 Avenue, 31
+23 Road, 30
+27 Avenue, 17
+31 Road, 3
+25 Avenue, 2
+25 Road, 5
+15 Road, 1
+21 Avenue, 20
+22 Road, 18
+17 Road, 1
+15 Road, 0
+18 Road, 4
+31 Road, 3
+15 Road, 10
+24 Road, 10
+27 Road, 8
+19 Avenue, 12
+24 Avenue, 3
+29 Road, 52
+27 Avenue, 16
+23 Road, 4
+29 Avenue, 5
+31 Avenue, 9
+24 Avenue, 4
+21 Road, 15
+24 Road, 11
+26 Road, 6
+26 Road, 3
+19 Avenue, 6
+29 Avenue, 6
+29 Road, 19
+42 Road, 17
+41 Avenue, 9
+41 Road, 8
+46 Road, 20
+37 Road, 2
+36 Road, 10
+40 Avenue, 27
+45 Avenue, 17
+33 Avenue, 42
+36 Road, 1
+37 Road, 4
+36 Road, 4
+37 Road, 1
+33 Road, 9
+45 Road, 5
+43 Avenue, 8
+36 Avenue, 3
+40 Road, 23
+38 Avenue, 16
+33 Road, 5
+36 Avenue, 11
+39 Road, 30
+44 Road, 5
+40 Road, 20
+35 Road, 0
+36 Avenue, 6
+37 Avenue, 14
+33 Avenue, 15
+36 Avenue, 13
+43 Avenue, 4
+35 Avenue, 4
+50 Avenue, 6
+36 Road, 2
+45 Road, 28
+38 Road, 0
+41 Avenue, 0
+36 Road, 8
+45 Road, 29
+34 Avenue, 20
+44 Road, 38
+33 Avenue, 41
+37 Road, 0
+33 Road, 17
+36 Avenue, 11
+41 Avenue, 2
+43 Avenue, 9
+43 Road, 12
+39 Road, 34
+36 Avenue, 6
+44 Avenue, 1
+45 Road, 48
+43 Avenue, 13
+33 Road, 1
+39 Avenue, 14
+43 Road, 0
+45 Road, 29
+39 Road, 17
+41 Avenue, 11
+41 Avenue, 1
+41 Road, 2
+36 Road, 13
+45 Avenue, 15
+42 Road, 17
+45 Road, 48
+47 Road, 0
+50 Avenue, 3
+35 Avenue, 7
+33 Road, 19
+46 Avenue, 4
+34 Avenue, 17
+33 Avenue, 7
+35 Avenue, 4
+46 Road, 11
+36 Road, 7
+45 Avenue, 28
+33 Avenue, 35
+35 Avenue, 3
+45 Avenue, 33
+46 Road, 1
+43 Road, 1
+50 Avenue, 0
+47 Avenue, 7
+44 Avenue, 19
+33 Road, 17
+38 Road, 5
+42 Road, 11
+34 Road, 3
+38 Road, 9
+40 Road, 29
+37 Avenue, 1
+46 Road, 0
+34 Road, 49
+44 Road, 25
+34 Road, 8
+44 Road, 37
+44 Avenue, 20
+36 Avenue, 12
+46 Avenue, 33
+44 Avenue, 17
+46 Avenue, 22
+52 Avenue, 23
+64 Avenue, 18
+64 Avenue, 11
+71 Avenue, 0
+61 Road, 0
+70 Avenue, 7
+58 Road, 64
+57 Road, 9
+52 Road, 41
+61 Road, 18
+70 Avenue, 26
+51 Avenue, 3
+50 Road, 15
+48 Road, 43
+60 Road, 4
+58 Road, 34
+51 Road, 0
+52 Road, 107
+69 Avenue, 2
+51 Avenue, 10
+70 Avenue, 9
+59 Avenue, 3
+51 Avenue, 4
+58 Avenue, 7
+61 Avenue, 3
+69 Avenue, 6
+68 Avenue, 8
+64 Avenue, 28
+49 Road, 3
+51 Avenue, 9
+50 Road, 5
+52 Road, 14
+62 Avenue, 2
+51 Avenue, 14
+53 Road, 11
+65 Avenue, 6
+55 Avenue, 10
+67 Avenue, 18
+57 Road, 0
+60 Road, 10
+67 Avenue, 44
+69 Avenue, 19
+60 Road, 19
+69 Avenue, 12
+65 Avenue, 3
+58 Road, 45
+68 Avenue, 8
+58 Avenue, 12
+59 Avenue, 7
+53 Avenue, 30
+71 Avenue, 3
+69 Avenue, 0
+61 Avenue, 1
+66 Avenue, 36
+64 Avenue, 16
+60 Avenue, 0
+65 Avenue, 8
+60 Avenue, 0
+55 Road, 23
+61 Avenue, 15
+69 Avenue, 23
+58 Avenue, 7
+51 Road, 2
+64 Avenue, 9
+51 Road, 7
+65 Avenue, 8
+65 Avenue, 9
+70 Avenue, 18
+50 Road, 5
+51 Avenue, 0
+70 Avenue, 24
+52 Road, 5
+50 Road, 12
+52 Avenue, 3
+68 Avenue, 10
+57 Road, 9
+60 Road, 16
+55 Avenue, 16
+48 Road, 41
+61 Avenue, 11
+59 Avenue, 0
+62 Avenue, 1
+51 Road, 16
+54 Road, 5
+51 Road, 13
+57 Road, 9
+69 Avenue, 19
+53 Avenue, 42
+60 Road, 10
+49 Road, 14
+54 Avenue, 0
+58 Road, 75
+71 Avenue, 0
+51 Avenue, 3
+66 Avenue, 2
+60 Avenue, 1
+62 Avenue, 5
+68 Avenue, 0
+59 Road, 21
+53 Road, 5
+73 Avenue, 8
+74 Avenue, 20
+66 Road, 22
+81 Avenue, 3
+66 Road, 18
+81 Avenue, 0
+65 Road, 8
+66 Road, 39
+76 Avenue, 14
+84 Avenue, 0
+66 Road, 36
+75 Avenue, 0
+65 Road, 7
+81 Avenue, 2
+70 Road, 5
+80 Avenue, 1
+63 Road, 14
+76 Avenue, 43
+63 Road, 12
+68 Road, 4
+66 Road, 16
+65 Road, 16
+64 Road, 10
+77 Avenue, 1
+87 Avenue, 1
+77 Avenue, 1
+70 Road, 18
+66 Road, 41
+75 Avenue, 10
+70 Road, 6
+71 Road, 32
+79 Avenue, 19
+87 Avenue, 1
+85 Avenue, 10
+86 Avenue, 5
+68 Road, 2
+72 Road, 9
+85 Avenue, 11
+89 Avenue, 1
+65 Road, 16
+66 Road, 41
+81 Avenue, 0
+71 Road, 37
+77 Avenue, 1
+78 Avenue, 9
+63 Road, 14
+84 Avenue, 1
+72 Avenue, 51
+76 Avenue, 40
+66 Road, 21
+87 Avenue, 0
+85 Avenue, 10
+77 Avenue, 2
+78 Avenue, 4
+87 Avenue, 0
+89 Avenue, 3
+86 Avenue, 7
+75 Avenue, 3
+74 Road, 2
+62 Road, 10
+67 Road, 1
+72 Road, 6
+79 Avenue, 29
+87 Avenue, 0
+77 Avenue, 1
+85 Avenue, 3
+87 Avenue, 0
+75 Road, 21
+72 Road, 4
+89 Avenue, 0
+64 Road, 3
+74 Road, 3
+74 Avenue, 2
+84 Avenue, 1
+85 Avenue, 8
+81 Avenue, 1
+87 Avenue, 0
+76 Avenue, 18
+90 Avenue, 4
+79 Avenue, 6
+74 Avenue, 24
+80 Avenue, 3
+76 Avenue, 44
+87 Avenue, 1
+64 Road, 17
+89 Avenue, 3
+67 Road, 4
+81 Avenue, 2
+62 Road, 5
+80 Avenue, 10
+73 Road, 5
+69 Road, 3
+82 Avenue, 5
+89 Avenue, 3
+72 Road, 10
+75 Avenue, 5
+83 Avenue, 5
+73 Avenue, 12
+77 Avenue, 1
+81 Avenue, 1
+103 Avenue, 5
+81 Road, 44
+94 Avenue, 14
+101 Avenue, 10
+82 Road, 13
+83 Road, 3
+105 Avenue, 32
+91 Road, 2
+79 Road, 13
+98 Avenue, 2
+81 Road, 14
+96 Avenue, 2
+102 Avenue, 73
+90 Road, 6
+81 Road, 5
+85 Road, 6
+78 Road, 6
+77 Road, 0
+86 Road, 33
+84 Road, 15
+94 Avenue, 30
+91 Avenue, 56
+102 Avenue, 40
+95 Avenue, 14
+85 Road, 24
+98 Avenue, 2
+91 Road, 3
+77 Road, 12
+80 Road, 0
+91 Avenue, 42
+90 Road, 16
+106 Avenue, 10
+77 Road, 6
+100 Avenue, 30
+86 Road, 25
+92 Avenue, 28
+79 Road, 7
+96 Avenue, 1
+85 Road, 7
+89 Road, 15
+93 Avenue, 0
+78 Road, 11
+83 Road, 7
+83 Road, 1
+89 Road, 1
+85 Road, 11
+97 Avenue, 10
+76 Road, 9
+97 Avenue, 10
+79 Road, 9
+84 Road, 19
+104 Avenue, 2
+88 Road, 8
+98 Avenue, 8
+76 Road, 12
+106 Avenue, 9
+90 Road, 29
+79 Road, 10
+104 Avenue, 0
+92 Avenue, 26
+89 Road, 6
+84 Road, 71
+80 Road, 4
+97 Avenue, 11
+96 Avenue, 0
+102 Avenue, 43
+91 Road, 0
+88 Road, 8
+100 Avenue, 16
+87 Road, 15
+89 Road, 17
+85 Road, 17
+95 Avenue, 6
+95 Avenue, 1
+101 Avenue, 16
+82 Road, 13
+91 Avenue, 42
+95 Avenue, 11
+94 Avenue, 16
+99 Avenue, 0
+81 Road, 8
+106 Avenue, 10
+82 Road, 12
+94 Avenue, 32
+92 Avenue, 1
+101 Avenue, 25
+77 Road, 8
+85 Road, 7
+92 Avenue, 25
+89 Road, 7
+86 Road, 44
+95 Avenue, 16
+88 Road, 2
+99 Avenue, 1
+89 Road, 15
+78 Road, 7
+97 Avenue, 0
+81 Road, 22
+98 Avenue, 11
+95 Avenue, 1
+106 Road, 18
+101 Road, 4
+101 Road, 0
+118 Avenue, 0
+118 Avenue, 1
+107 Avenue, 0
+103 Road, 29
+99 Road, 9
+95 Road, 0
+114 Avenue, 5
+96 Road, 0
+97 Road, 26
+92 Road, 6
+109 Avenue, 9
+120 Avenue, 9
+96 Road, 0
+116 Avenue, 26
+108 Road, 5
+110 Avenue, 4
+93 Road, 49
+103 Road, 22
+109 Road, 9
+111 Avenue, 21
+108 Avenue, 6
+120 Avenue, 9
+101 Road, 4
+109 Road, 41
+97 Road, 7
+92 Road, 2
+116 Avenue, 6
+112 Avenue, 6
+118 Avenue, 1
+95 Road, 5
+102 Road, 6
+113 Avenue, 8
+108 Road, 2
+105 Road, 1
+121 Avenue, 3
+96 Road, 0
+101 Road, 12
+95 Road, 3
+107 Avenue, 14
+107 Avenue, 16
+96 Road, 1
+101 Road, 11
+95 Road, 1
+100 Road, 0
+112 Avenue, 22
+106 Road, 18
+101 Road, 7
+102 Road, 38
+107 Road, 42
+109 Avenue, 10
+95 Road, 4
+120 Avenue, 8
+106 Road, 1
+93 Road, 34
+118 Avenue, 1
+111 Avenue, 0
+107 Road, 13
+103 Road, 43
+101 Road, 0
+117 Avenue, 6
+99 Road, 19
+109 Road, 31
+96 Road, 2
+107 Road, 6
+112 Avenue, 59
+100 Road, 1
+121 Avenue, 0
+107 Avenue, 15
+108 Avenue, 32
+96 Road, 1
+120 Avenue, 8
+117 Avenue, 10
+103 Road, 33
+100 Road, 1
+111 Avenue, 23
+94 Road, 25
+110 Avenue, 5
+104 Road, 48
+95 Road, 1
+113 Avenue, 8
+111 Avenue, 12
+106 Road, 7
+110 Avenue, 3
+116 Avenue, 17
+107 Avenue, 16
+120 Avenue, 3
+121 Avenue, 5
+107 Avenue, 1
+118 Avenue, 0
+103 Road, 7
+120 Avenue, 7
+104 Road, 6
+104 Road, 25
+117 Avenue, 2
+92 Road, 0
+100 Road, 2
+109 Avenue, 12
+128 Avenue, 0
+115 Road, 3
+117 Road, 19
+128 Avenue, 26
+126 Road, 20
+120 Road, 12
+130 Avenue, 0
+126 Road, 19
+134 Avenue, 7
+117 Road, 17
+127 Road, 6
+117 Road, 19
+123 Road, 36
+134 Avenue, 7
+117 Road, 31
+117 Road, 20
+111 Road, 2
+118 Road, 0
+137 Avenue, 0
+135 Avenue, 24
+124 Road, 5
+125 Road, 8
+137 Avenue, 1
+125 Avenue, 8
+129 Avenue, 10
+128 Avenue, 27
+122 Road, 40
+118 Road, 0
+133 Avenue, 10
+132 Avenue, 14
+124 Road, 19
+125 Road, 37
+115 Road, 2
+117 Road, 16
+112 Road, 4
+122 Road, 19
+128 Avenue, 21
+126 Avenue, 15
+137 Avenue, 0
+112 Road, 12
+111 Road, 0
+122 Road, 23
+117 Road, 25
+114 Road, 10
+127 Road, 17
+123 Avenue, 19
+129 Avenue, 23
+123 Avenue, 7
+123 Avenue, 13
+125 Road, 20
+123 Road, 29
+129 Avenue, 26
+128 Avenue, 5
+137 Avenue, 3
+135 Avenue, 3
+120 Road, 10
+129 Avenue, 24
+130 Avenue, 7
+137 Avenue, 5
+126 Road, 24
+126 Avenue, 0
+127 Avenue, 50
+114 Road, 53
+112 Road, 7
+134 Avenue, 9
+126 Avenue, 2
+126 Road, 16
+134 Avenue, 20
+134 Avenue, 1
+127 Avenue, 13
+124 Avenue, 3
+118 Road, 2
+130 Avenue, 1
+113 Road, 8
+120 Road, 12
+120 Road, 21
+119 Road, 18
+116 Road, 9
+125 Avenue, 6
+125 Avenue, 11
+123 Road, 40
+127 Avenue, 59
+123 Avenue, 16
+137 Avenue, 3
+126 Avenue, 13
+126 Avenue, 3
+137 Avenue, 3
+133 Avenue, 20
+130 Avenue, 14
+125 Road, 22
+134 Avenue, 19
+126 Road, 21
+131 Avenue, 12
+132 Avenue, 6
+129 Avenue, 11
+126 Road, 22
+134 Avenue, 19
+116 Road, 0
+137 Avenue, 2
+120 Road, 32
+41 Avenue, 2
+2 Road, 4
+131 Avenue, 1
+18 Road, 1
+10 Road, 1
+53 Avenue, 11
+114 Road, 26
+85 Avenue, 0
+112 Road, 24
+5 Avenue, 1
+64 Road, 0
+87 Road, 16
+50 Road, 13
+49 Avenue, 7
+13 Avenue, 8
+22 Road, 12
+64 Road, 13
+110 Road, 7
+115 Road, 5
+91 Avenue, 5
+79 Avenue, 43
+26 Road, 5
+79 Road, 4
+127 Avenue, 14
+87 Avenue, 1
+15 Avenue, 4
+38 Road, 1
+82 Avenue, 7
+49 Avenue, 5
+116 Avenue, 6
+21 Avenue, 49
+104 Avenue, 1
+66 Avenue, 26
+4 Road, 94
+75 Road, 4
+47 Road, 15
+16 Road, 11
+89 Road, 7
+25 Avenue, 1
+54 Road, 4
+86 Avenue, 6
+90 Road, 29
+120 Road, 9
+38 Avenue, 25
+89 Road, 11
+16 Avenue, 1
+114 Avenue, 5
+61 Avenue, 15
+99 Road, 18
+32 Avenue, 1
+38 Road, 6
+68 Avenue, 10
+41 Road, 0
+110 Avenue, 5
+27 Road, 12
+50 Road, 9
+69 Road, 1
+19 Avenue, 9
+98 Road, 48
+27 Avenue, 13
+38 Avenue, 33
+129 Avenue, 39
+38 Avenue, 17
+89 Avenue, 0
+72 Avenue, 13
+42 Road, 10
+18 Avenue, 4
+47 Avenue, 9
+35 Avenue, 2
+89 Road, 7
+90 Road, 4
+30 Road, 3
+87 Road, 10
+12 Avenue, 8
+88 Road, 11
+129 Avenue, 8
+106 Road, 5
+32 Road, 2
+14 Avenue, 33
+13 Road, 18
+89 Avenue, 3
+32 Avenue, 5
+13 Road, 44
+29 Avenue, 1
+41 Avenue, 2
+15 Road, 7
+124 Road, 0
+51 Avenue, 13
+26 Road, 0
+63 Road, 14
+7 Avenue, 50
+127 Avenue, 7
+9 Avenue, 4
+80 Avenue, 1
+52 Road, 0
+8 Road, 15
+1 Road, 13
+53 Avenue, 7
+54 Road, 1
+126 Avenue, 0

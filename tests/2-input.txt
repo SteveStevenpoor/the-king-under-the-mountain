@@ -1,0 +1,19 @@
+3 12 6
+First Avenue 4 4 2 4
+Second Avenue 4 8 2 4
+First Road 4 4 2 4
+Second Road 8 4 2 4
+Third Avenue 16 4 2 4
+Fourth Avenue 16 8 2 4
+Third Road 16 4 2 4
+Fourth Road 20 4 2 4
+Fifth Avenue 10 16 2 4
+Sixth Avenue 10 20 2 4
+Fifth Road 10 16 2 4
+Sixth Road 14 16 2 4
+First Avenue, 0
+Third Avenue, 0
+Third Avenue, 1
+Fifth Avenue, 0
+Fifth Avenue, 1
+Fifth Road, 1
